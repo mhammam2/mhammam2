@@ -8,8 +8,7 @@ Currently finishing my Computer Science degree while actively exploring projects
 
 - **Languages:** Python · Java · JavaScript/TypeScript · C/C++
 - **Areas:** Software Engineering · Distributed Systems · Full-Stack Development
-- **Interests:** Cybersecurity · Embedded Systems (Automotive)
-- **Currently exploring:** Low-level systems and vehicle software
+- **Interests:** Cybersecurity · Embedded Systems (Automotive) · AI
 
 ## Featured Project
 
