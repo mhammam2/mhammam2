@@ -1,7 +1,5 @@
 # Mohammed Hammam
 
-I write code and I work on cars. Eventually I want to close the gap and write software for cars.
-
 ### Languages
 ![Java][java] ![Python][python] ![C][c] ![C++][cpp] ![JavaScript][js] ![HTML][html] ![CSS][css]
 
